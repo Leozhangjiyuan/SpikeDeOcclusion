@@ -17,8 +17,6 @@ Jiyuan Zhang, Shiyan Chen, Yajing Zheng $\dagger$, Zhaofei Yu $\dagger$ and Tiej
 * **Train**
 The code will be available soon.
 
-```
-
 * **Test**
 The code will be available soon.
 
